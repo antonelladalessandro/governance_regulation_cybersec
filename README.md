@@ -35,7 +35,6 @@
 
 # Information Security Framework
 
-Ecco una tabella che riassume le **Componenti del Framework di Sicurezza Informatica**:
 
 | **Componente**   | **Descrizione**                                                                                       |
 |------------------|-------------------------------------------------------------------------------------------------------|
@@ -45,7 +44,6 @@ Ecco una tabella che riassume le **Componenti del Framework di Sicurezza Informa
 | **Procedures (Procedure)** | Serie di passaggi specifici per completare compiti o processi di sicurezza.                   |
 | **Baselines (Basi di Riferimento)** | Requisiti minimi di sicurezza da soddisfare per garantire una protezione adeguata.    |
 
-Questa tabella sintetizza le componenti essenziali di un framework di sicurezza informatica, fornendo una struttura per la gestione della sicurezza all'interno di un'organizzazione.
 
 
 
@@ -76,6 +74,10 @@ Questa tabella sintetizza le componenti essenziali di un framework di sicurezza 
 
 # Framework GRC
 **Componenti:**
+
+
+![1711653148587](https://github.com/user-attachments/assets/49cca6e5-19a8-44a6-b26c-ce5d0e9c45b5)
+
 
 
 | **Componente**         | **Descrizione**                                                      | **Esempio Applicativo**                                           |
