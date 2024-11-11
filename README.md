@@ -73,16 +73,45 @@
 
 
 # Framework GRC
-**Componenti:**
+
 
 
 ![1711653148587](https://github.com/user-attachments/assets/49cca6e5-19a8-44a6-b26c-ce5d0e9c45b5)
 
+Il **Framework GRC** è un approccio olistico alla gestione della sicurezza informatica che integra governance, gestione dei rischi e conformità alle normative. È progettato per garantire che un'organizzazione operi all'interno dei confini delle normative rilevanti e degli standard del settore, allineando gli obiettivi di sicurezza informatica con quelli aziendali.
 
+**Componenti:**
 
 | **Componente**         | **Descrizione**                                                      | **Esempio Applicativo**                                           |
 |------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
 | **Governance**          | Definizione della strategia di sicurezza, politiche e processi di monitoraggio. | Creazione di una strategia di sicurezza informatica.            |
 | **Gestione del Rischio**| Identificazione, valutazione e gestione dei rischi informatici.      | Implementazione di firewall, IDS/IPS, formazione dipendenti.    |
 | **Compliance**          | Assicurarsi che l'organizzazione rispetti leggi e regolamenti.       | Adattamento alle normative PCI DSS, GLBA, gestione di audit.    |
+
+
+
+
+ **Sviluppare un Programma GRC: Linee Guida Generiche**
+
+1. **Definire lo Scopo e gli Obiettivi**:
+   - Determinare l'ambito del programma e stabilire obiettivi chiari (es. ridurre i rischi informatici del 50% entro 12 mesi).
+
+2. **Valutare il Rischio**:
+   - Identificare i rischi informatici e prioritizzarli (es. attacchi esterni a causa di accessi non sicuri).
+
+3. **Sviluppare Politiche e Procedure**:
+   - Creare politiche di sicurezza (es. politiche per password sicure) e procedure operative.
+
+4. **Stabilire Processi di Governance**:
+   - Creare un comitato di supervisione per la sicurezza e definire ruoli e responsabilità.
+
+5. **Implementare Controlli**:
+   - Applicare controlli tecnici (es. firewall, IPS, IDS) e non tecnici (es. formazione del personale).
+
+6. **Monitorare e Misurare le Performance**:
+   - Stabilire metodi per misurare l'efficacia del programma GRC (es. monitorare l'aderenza alle politiche di sicurezza).
+
+7. **Miglioramento Continuo**:
+   - Rivedere e migliorare il programma in base ai risultati delle misurazioni e ai feedback (es. analisi post-incidente).
+
 
