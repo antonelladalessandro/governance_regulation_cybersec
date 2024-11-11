@@ -64,3 +64,13 @@
      La scelta del framework dipende da requisiti normativi, risorse disponibili e obiettivi aziendali.
 
 
+# Framework GRC
+**Componenti:**
+
+
+| **Componente**         | **Descrizione**                                                      | **Esempio Applicativo**                                           |
+|------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
+| **Governance**          | Definizione della strategia di sicurezza, politiche e processi di monitoraggio. | Creazione di una strategia di sicurezza informatica.            |
+| **Gestione del Rischio**| Identificazione, valutazione e gestione dei rischi informatici.      | Implementazione di firewall, IDS/IPS, formazione dipendenti.    |
+| **Compliance**          | Assicurarsi che l'organizzazione rispetti leggi e regolamenti.       | Adattamento alle normative PCI DSS, GLBA, gestione di audit.    |
+
