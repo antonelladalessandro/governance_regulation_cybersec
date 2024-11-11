@@ -35,7 +35,17 @@
 
 # Information Security Framework
 
-![immagine](https://github.com/user-attachments/assets/a8a74226-0add-4c68-b3c7-85e80e911a5f)
+Ecco una tabella che riassume le **Componenti del Framework di Sicurezza Informatica**:
+
+| **Componente**   | **Descrizione**                                                                                       |
+|------------------|-------------------------------------------------------------------------------------------------------|
+| **Policies (Politiche)**   | Linee guida formali che definiscono gli obiettivi di sicurezza dell'organizzazione.           |
+| **Standards (Standard)**   | Requisiti specifici per processi, prodotti o servizi di sicurezza.                           |
+| **Guidelines (Linee Guida)** | Raccomandazioni e best practices (non obbligatorie) per raggiungere specifici obiettivi.    |
+| **Procedures (Procedure)** | Serie di passaggi specifici per completare compiti o processi di sicurezza.                   |
+| **Baselines (Basi di Riferimento)** | Requisiti minimi di sicurezza da soddisfare per garantire una protezione adeguata.    |
+
+Questa tabella sintetizza le componenti essenziali di un framework di sicurezza informatica, fornendo una struttura per la gestione della sicurezza all'interno di un'organizzazione.
 
 
 
