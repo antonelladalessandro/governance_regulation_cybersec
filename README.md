@@ -117,6 +117,9 @@ Il **Framework GRC** è un approccio olistico alla gestione della sicurezza info
 
 
 # **Regolamenti sulla Privacy e Protezione dei Dati:**
+
+![immagine](https://github.com/user-attachments/assets/244ed9ff-0bc8-49bc-a41e-1ebb73ea643b)
+
 In ogni settore (finanziario, sanitario, governativo, industriale), le normative sulla privacy e la protezione dei dati sono fondamentali, in quanto trattano le informazioni identificabili personalmente (PII) dei cittadini. Tali regolamenti garantiscono che i dati personali vengano trattati e archiviati in modo responsabile ed etico, creando fiducia, proteggendo le informazioni personali e assicurando la conformità alle normative.
 
 
@@ -127,10 +130,13 @@ In ogni settore (finanziario, sanitario, governativo, industriale), le normative
 
 Queste normative sono fondamentali per la sicurezza delle informazioni sensibili e la protezione dei diritti degli individui nel mondo digitale.
 
-![772ddef796e37d2c2f82c1bb9b240a36](https://github.com/user-attachments/assets/8d4c060b-2c0e-44d6-9ca7-d8e41c28a1e9)
+
+
 
 
 # NIST
+
+![NIST-Cybersecurity-Framework--1024x576](https://github.com/user-attachments/assets/b298a1fa-bfba-4760-bb79-e7e829ac88d5)
 
 
 ### **NIST 800-53**
@@ -145,9 +151,11 @@ Il NIST 800-53 offre un insieme completo di controlli di sicurezza e privacy che
 
 Il **NIST Special Publication 800-63B** è una serie di linee guida sviluppate dal NIST per aiutare le organizzazioni a stabilire pratiche di identità digitale efficaci, focalizzandosi sulla verifica dell'identità degli individui che accedono a servizi, sistemi e reti digitali. Le linee guida offrono raccomandazioni per diversi livelli di garanzia dell'identità, da base ad alta, e forniscono consigli sull'uso di fattori di autenticazione come password, biometria e token, nonché sulla gestione sicura delle credenziali utente.
 
+
 # IS management
 
 La **gestione della sicurezza delle informazioni** (IS management) riguarda la protezione dei dati da accessi non autorizzati e altre minacce, attraverso la pianificazione, l'esecuzione e la manutenzione delle misure di sicurezza. Comprende la valutazione dei rischi, lo sviluppo di controlli, la risposta agli incidenti e la formazione. La **compliance**, invece, riguarda il rispetto delle normative di sicurezza delle informazioni. Due standard chiave in questo campo sono ISO/IEC 27001 e SOC 2.
+
 
 ---
 
