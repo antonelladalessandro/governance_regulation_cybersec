@@ -5,7 +5,7 @@
  1. **Terminologie Chiave**
    - **Governance:** Direzione e gestione dell'organizzazione per raggiungere obiettivi e garantire conformità.
    - **Regolamentazione:** Leggi e norme applicate per proteggere i dati e garantire sicurezza.
-   - **Conformità:** Adesione a leggi e standard di sicurezza richiesti.
+   - **Compliance:** Adesione a leggi e standard di sicurezza richiesti.
 
  2. **Governance della Sicurezza Informatica**
    - **Obiettivo:** Proteggere la riservatezza, integrità e disponibilità dei dati.
