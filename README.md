@@ -1,5 +1,7 @@
 # Governance e Regolamentazione della Sicurezza Informatica
 
+![00960_ABS_Screens_CybersecurityGovernance](https://github.com/user-attachments/assets/b83f9743-1b31-4c46-8231-2e751c5cb343)
+
  1. **Terminologie Chiave**
    - **Governance:** Direzione e gestione dell'organizzazione per raggiungere obiettivi e garantire conformità.
    - **Regolamentazione:** Leggi e norme applicate per proteggere i dati e garantire sicurezza.
