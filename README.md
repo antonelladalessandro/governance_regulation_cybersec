@@ -75,7 +75,7 @@
 
 
 
-![1711653148587](https://github.com/user-attachments/assets/49cca6e5-19a8-44a6-b26c-ce5d0e9c45b5)
+![grc framework components](https://github.com/user-attachments/assets/3aa6ad5f-f9b9-4e85-bf62-05061fd91f55)
 
 Il **Framework GRC** è un approccio olistico alla gestione della sicurezza informatica che integra governance, gestione dei rischi e conformità alle normative. È progettato per garantire che un'organizzazione operi all'interno dei confini delle normative rilevanti e degli standard del settore, allineando gli obiettivi di sicurezza informatica con quelli aziendali.
 
