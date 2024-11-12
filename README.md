@@ -8,7 +8,7 @@
    - **Conformità:** Adesione a leggi e standard di sicurezza richiesti.
 
  2. **Governance della Sicurezza Informatica**
-   - **Obiettivo:** Proteggere riservatezza, integrità e disponibilità dei dati.
+   - **Obiettivo:** Proteggere la riservatezza, integrità e disponibilità dei dati.
    - **Processi principali:**
      - **Strategia:** Sviluppare una strategia di sicurezza allineata agli obiettivi aziendali.
      - **Politiche e procedure:** Creare norme per l'uso e protezione dei dati.
